@@ -1,0 +1,3 @@
+   13  git init
+   16  history 0 | grep "git" > git_commands.txt
+   17  history | grep "git" > git_commands.txt

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 -jazz
 -country
 -hip hop
 -rock
+=======
+hello new file
+>>>>>>> orchestra

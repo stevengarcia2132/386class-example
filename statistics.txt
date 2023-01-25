@@ -2,3 +2,4 @@ Ideas for curriculum:
 -mean and standard deviation
 -Regression
 -Bayes Theorem
+-intership exploration

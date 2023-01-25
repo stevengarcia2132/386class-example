@@ -1,3 +1,55 @@
    13  git init
    16  history 0 | grep "git" > git_commands.txt
    17  history | grep "git" > git_commands.txt
+   19  git status
+   40  git status
+   41  git init
+   42  git status
+   46  git status
+   47  git add statistics.txt
+   48  git status
+   49  git commit -m "first commit"
+   50  git log
+   80  git status
+   81  git -m "first commit"
+   82  git status
+   83  git add "statistics.txt"
+   84  git add statistics.txgt
+   85  git log'
+   86  git log
+   88  git status
+   89  git status
+   93  git add statistics.txt history.txt
+   94  git status
+   95  git commit -m "first files"
+   96  git status\
+   97  git status
+   98  add git_commands.txt
+   99  git add git_commands.txt
+  100  git status
+  101  git commit -m
+  102  git commit -m "adding this file"
+  103  git status
+  104  git status
+  105  git staus
+  106  git status
+  108  git add .gitignore
+  109  git status
+  110  git commit -m "Add .git file tracking"
+  111  git status
+  112  git add statistics.txt
+  113  git status
+  114  git commit -m "add statistics curriculum ideas
+  115  git commit -m "add statistics curriculum ideas"
+  118  git status
+  119  git commit -m "add statistics curriculum ideas"
+  120  git status
+  121  git commit -m "add history curriculum ideas"
+  122  git status
+  123  git commit -m "add history ideas"
+  124  git add history.txt
+  125  git status
+  126  git commit -m "add history ideas"
+  127  git status
+  128  git config
+  130  history | grep 'git' > git_commands.txt

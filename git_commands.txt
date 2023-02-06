@@ -53,3 +53,164 @@
   127  git status
   128  git config
   130  history | grep 'git' > git_commands.txt
+  134  git status
+  135  git remote -v
+  141  git add origin git@github.com:stevengarcia2132/386class-example.git
+  142  git branch
+  157  git branch
+  158  git branch music
+  159  git branch
+  160  git switch music
+  161  git branch
+  165  git status
+  166  git add music.txt
+  167  git status
+  168  git commit music.txt
+  169  git status
+  170  git commit -m
+  171  git commit -m music.txt
+  172  git status
+  173  git staus
+  174  git status
+  175  git commit -m music.txt
+  176  git branch
+  177  git branch orchestra 
+  178  git branch
+  179  git switch orchestra
+  180  git branch
+  183  git add food.txt
+  184  git status
+  185  git commit -m "my favorite food"
+  193  rm -rf .git
+  195  git remote add origin git@github.com:stevengarcia2132/386class-example.git
+  196  git remote -v
+  197  git remote -v
+  201  git status
+  202  git add music.txt
+  203  git status
+  204  git commit -m "updated music file"
+  205  git branch
+  207  git switch main
+  208  git branch
+  209  git push -u origin main
+  210  git remote
+  211  git remote origin
+  212  git origin
+  215  git push -u origin main
+  216  git remote -v
+  217  git push -u origin main
+  220  git remote -v
+  221  git status
+  223  git remote -v
+  224  git push -u origin main
+  248  git status
+  251  git status
+  252  git push -u origin main
+  254  git status
+  257  git status
+  258  git branch
+  260  git status
+  261  git add statistics.txt 
+  262  git status
+  263  git commit -m "added a new idea"
+  264  git status
+  265  git add history.txt 
+  266  git commit -m "added a music idea"
+  267  git status
+  268  git branch
+  269  git remote -v
+  270  git branch
+  271  git switch music
+  273  git branch
+  275  git add music.txt 
+  276  git status
+  277  git branch
+  278  git add music.txt 
+  279  git status
+  280  git commit -m "added some ideas to music"
+  281  git status
+  282  git branch
+  283  git switch orchestra 
+  284  git status
+  286  git status
+  287  git add statspractice.txt 
+  288  git commit -m "this is in orchestra"
+  289  git branch
+  290  git switch music 
+  291  git merge orchestra 
+  292  git branch
+  293  git merge orchestra -m "trying to merge"
+  294  git branch
+  295  git merge orchestra 
+  296  git stats
+  297  git stus
+  298  git status
+  299  git branch
+  300  git add food.txt 
+  301  git status
+  302  git commit -m "changes"
+  303  git status
+  304  git branch
+  305  git commit -m "new files
+  306  git commit -m "new files"
+  307  git status
+  308  git branch
+  309  git merge orchestra
+  310  git status
+  311  git commit -m "new files"
+  312  git status
+  313  git switch orchestra 
+  314  git merge --quit
+  315  git switch orchestra 
+  317  git add .
+  318  git commit -m "new files"
+  319  git status
+  320  git branch
+  321  git merge orchestra
+  322  git merge --quit
+  324  git switch orchestra 
+  325  git switch orchestra
+  327  git merge orchestra
+  328  git switch orchestra
+  329  git status
+  331  git add music.txt 
+  332  git status
+  334  git merge orchestra
+  335  git branch
+  336  git status]
+  337  git stauts
+  338  git status
+  339  git commit -m "done"
+  340  git merge orchestra 
+  341  git merge --quit
+  342  git switch orchestra
+  343  git status
+  344  git add music.txt 
+  345  git commit -m  "done"
+  347  git switch orchestra 
+  349  git status
+  350  git branch
+  351  git switch music 
+  352  git status
+  353  git status
+  354  git merge orchestra 
+  355  git branch
+  356  git merge orchestra -m "merging"
+  357  git branch
+  358  git branch orchestra -d
+  359  git branch
+  361  git branchc
+  362  git branch
+  363  git status
+  364  git switch main 
+  365  git status
+  366  git merge music
+  368  git branch
+  369  git branch music -d
+  370  git remote
+  371  git remote origin
+  372  git push -u
+  373  git push -u origin main
+  374  git remote add origin git@github.com:stevengarcia2132/CourseDevelopmentIdeas.git
+  375  git push -u origin main
+  376  history | grep "git" > git_commands.txt
